@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "First Commit"
+
+git remote add origin "Github Remote Repository URL"
+
+git push origin master
